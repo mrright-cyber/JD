@@ -16,9 +16,9 @@ from .. import jdbot, chat_id, BOT_SET, ch_name
 from .utils import cmd, TASK_CMD
 
 
-ikuai_ip = '192.168.50.1'
-ikuai_user_name = 'oopp11'
-ikuai_user_pws = '123458ik'
+ikuai_ip = '192.168.X.X'
+ikuai_user_name = ''
+ikuai_user_pws = ''
 
 cookie = ""
 ip = ''
